@@ -1,0 +1,4 @@
+[general]
+base_url = "https://public-api.reservationsteps.ru/v1/api"
+uid = "d7494710-8c8c-4c4c-bba4-f71caf96fece"
+account_id = 535
